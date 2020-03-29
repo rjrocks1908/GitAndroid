@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("Tag","Message");
         Log.i("Tag","Message to world");
+        Log.i("Tag","Message to world my message");
     }
 }
